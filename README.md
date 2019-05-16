@@ -1,0 +1,1 @@
+[16.05.19] = This repo gather all repos from LS Ruby intro book
