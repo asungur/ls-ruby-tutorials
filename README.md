@@ -2,3 +2,4 @@
 
 [20.05.19] = Added completed chapters. Still missing final chapters
 
+[20.05.19] = Completed ls-ruby-tutorials. Possible updates to follow during the second swipe

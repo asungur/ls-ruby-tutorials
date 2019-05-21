@@ -1,0 +1,11 @@
+=begin
+What will the following program print to the screen? What will it return?
+
+def execute(&block)
+  block
+end
+
+execute { puts "Hello from inside the execute method!" }
+=end
+
+# ANSWER: Nothing because call method is not used
